@@ -1,0 +1,10 @@
+{
+  "name": "WorkProof",
+  "description": "Mobile-first daily wage work proof and punch-in app for workers and contractors with one-tap WhatsApp sharing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
